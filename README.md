@@ -63,6 +63,13 @@ API REST em PHP com autenticacao utilizado JWT
 
 Obs: Substitua 'password' pela senha que quer. Utilize aspas simple ao redor da senha;
 
+### 6 - Instalacao do php-jwt
+
+#### No termina, dentro da pasta do projeto digite o comando:
+
+    composer require firebase/php-jwt
+
+
 
 ## Uso
 
