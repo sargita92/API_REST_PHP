@@ -3,7 +3,7 @@
         private $host = "127.0.0.1";
         private $database_name = "phpapidb";
         private $username = "root";
-        private $password = "131292";
+        private $password = "123456";
 
         public $conn;
 
