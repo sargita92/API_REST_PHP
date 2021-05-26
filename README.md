@@ -70,6 +70,10 @@ Obs: Substitua 'password' pela senha que quer. Utilize aspas simple ao redor da 
     composer require firebase/php-jwt
 
 
+### 7 - Configurando a conexao com o Banco
+
+#### Em config/database.php modifique as credenciais de acordo com a configuracao do seu banco de dados.
+
 
 ## Uso
 
